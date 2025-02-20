@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🤖️📖️ Android x32: The documentation source repository for the DeGoogled build of Android 4.0, a powerful, DeGoogled Android 4.0 (Ice Cream Sandwich) alternative installation 
